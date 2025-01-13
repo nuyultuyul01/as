@@ -19,3 +19,4 @@ jobs:
         cd Livestreaming
         chmod +x install.sh
         ./install.sh
+        python3 live.py
